@@ -8,17 +8,17 @@ Os cálculos de concordância utilizados na aplicação são realizados através
 
 ## Estrutura do repositório
 ### 📁 .streamlit
-    Arquivo de configuração do Streamlit.
+Arquivo de configuração do Streamlit.
 
 ### 📁 imgs
-    Logo utilizada na aplicação.
+Logo utilizada na aplicação.
 
 ### `kappa.py`
-    Implementação do cálculo de Kappa.
+Implementação do cálculo de Kappa.
 
 ### `main.py`
-    Código principal da aplicação em Streamlit.
+Código principal da aplicação em Streamlit.
 
 ### `requirements.txt`
-    Dependências do projeto.
+Dependências do projeto.
 
