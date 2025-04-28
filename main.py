@@ -17,7 +17,7 @@ tab1, tab2 = st.tabs(["Calculadora", "Saiba mais"])
 with tab1:
     st.markdown("""
         ### Cálculo de concordância
-        ##### 1. Carregue um arquivo *csv* ou *xlsx* com os dados anotados.
+        ##### 1. Carregue um arquivo *csv* ou *xlsx* com os dados anotados
     """)
 
     arquivo = st.file_uploader(
