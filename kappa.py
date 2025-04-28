@@ -21,7 +21,6 @@ def calcular_kappa(df, colunas):
             for indice, valor in enumerate(df[coluna])
         ]
         dados_anotados.extend(dados_anotador)
-        print(dados_anotados)
 
     # Cria tarefa de anotação
     anotacao = agreement.AnnotationTask(data=dados_anotados)
