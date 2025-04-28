@@ -10,7 +10,7 @@ st.set_page_config(
 
 st.title("Calculadora Kappa")
 st.markdown("> Cálculo de concordância usando Kappa")
-st.markdown("Essa aplicação permite medir a concordância entre dois ou mais anotadores através do cálculo de Kappa. O índice é calculado utilizando Cohen's Kappa para dois anotadores e Fleiss' Kappa para mais de dois anotadores. Para mais detalhes da implementação acesse a aba **Saiba mais**.")
+st.markdown("Essa aplicação permite medir a concordância entre dois ou mais anotadores através do cálculo de Kappa. O índice é calculado utilizando Cohen's Kappa para dois anotadores e Fleiss' Kappa para mais de dois anotadores. Mais detalhes da implementação estão na aba **Saiba mais**.")
 
 tab1, tab2 = st.tabs(["Calculadora", "Saiba mais"])
 
