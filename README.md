@@ -1,3 +1,4 @@
+[![Calculadora Kappa](https://img.shields.io/badge/Streamlit-Calculadora%20Kappa-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://calculadora-kappa.streamlit.app)
 # Calculadora Kappa
 > Túlio Gois
 
